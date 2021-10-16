@@ -76,12 +76,12 @@ html, body {
 }
 p {
     color: var(--console-base);
-    font-size: 20px;
+    font-size: 1vw;
 }
 h3 {
     color: var(--console-base);
     font-weight: normal;
-    font-size: 30px;
+    font-size: 2vw;
 }
 
 .container {
