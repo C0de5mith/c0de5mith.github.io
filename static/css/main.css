@@ -102,6 +102,7 @@ h3 {
 }
 
 
+
 .blinking-caret {
     --blink-color: var(--console-base);
     animation: blink 1.2s infinite;
