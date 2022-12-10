@@ -1,0 +1,3 @@
+[submodule "assets/math-notes"]
+	path = assets/math-notes
+	url = https://github.com/C0de5mith/math-notes.git
